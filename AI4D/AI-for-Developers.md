@@ -43,7 +43,7 @@ Overall, leveraging the InfiniEdge AI project within the AI-for-Developers frame
 
 ## General Architecture of the InfiniEdge AI Serverless Framework
 
-![](arch.png)
+![](arch.webp)
 
 The InfiniEdge AI serverless framework provides a robust and flexible environment for managing AI workloads, comprising several key components.
 
